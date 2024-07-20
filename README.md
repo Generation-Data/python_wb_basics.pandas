@@ -26,3 +26,4 @@ If you need help or want to check your work, you can refer to the `python_wb_wit
 - [Pandas Documentation](https://pandas.pydata.org/docs/user_guide/index.html)
 - [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 - [Bite-sized Youtube Videos on Pandas](https://youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&si=ZqMzxzhv1WOcB3Me)
+- [Google doc version of the exercises}(https://docs.google.com/document/d/1WKbjQoSn_9DCltgNgpYKLnyGp94ERS_9gtCviV-rxww/edit#heading=h.x8f446rxhqs6)
