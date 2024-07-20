@@ -7,10 +7,10 @@ This repository contains exercises designed to help participants practice the ba
 To get started, clone this repository and open it in GitHub Codespaces. When you first run it in Codespaces, the intent is to run the command `python` in the terminal to start a Python interactive shell, then copy and paste your written code into the shell.
 
 ### Exercise File
-The exercises are provided in the `bythonworkbook.py` file. Follow the instructions and complete each exercise step-by-step.
+The exercises are provided in the `exercises.py` file. Follow the instructions and complete each exercise step-by-step.
 
 ### Solutions File
-If you need help or want to check your work, you can refer to the `python_wb_with_code.py` file, which contains the solutions to the exercises.
+If you need help or want to check your work, you can refer to the `wb_with_code.py` file, which contains the solutions to the exercises.
 
 ### Exercises
 0. Import necessary libraries and load data from a CSV file into a Pandas DataFrame.
